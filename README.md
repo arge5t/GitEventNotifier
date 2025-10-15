@@ -12,6 +12,7 @@
 
 ## Структура проекта
 src/
+
 ├── GitEventNotifier.Common/          
 ├── GitEventNotifier.Infrastructure/  
 ├── GitEventNotifier.Producer/        
@@ -26,8 +27,6 @@ src/
 - **.NET 8**
 - **RabbitMQ.Client** (для взаимодействия с RabbitMQ)
 - **Octokit** (для работы с GitHub API)
-- **BackgroundService** (.NET)
-- **Dependency Injection** (.NET)
 
 ## Запуск
 
